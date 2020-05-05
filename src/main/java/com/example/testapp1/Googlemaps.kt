@@ -3,7 +3,7 @@ package com.example.testapp1
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-// Google Maps API Key: AIzaSyCWKnwIeuF-W3_kUO2jRSD6iYd2nh_SdQo
+// Google Maps API Key: [redacted]
 
 class Googlemaps : AppCompatActivity() {
 
